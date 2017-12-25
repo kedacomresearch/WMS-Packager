@@ -1,0 +1,6 @@
+*/out
+*build*
+.idea
+download
+bin
+node_modules
